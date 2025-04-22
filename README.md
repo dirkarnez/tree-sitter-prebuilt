@@ -5,4 +5,4 @@ tree-sitter-prebuilt
 Prebuilt of [tree-sitter/tree-sitter: An incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
 
 ### Playground
-- [dirkarnez/tree-sitter-playground](https://github.com/dirkarnez/tree-sitter-playground)
+- [dirkarnez/tree-sitter-c-playground](https://github.com/dirkarnez/tree-sitter-c-playground)
